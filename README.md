@@ -1,4 +1,4 @@
-Company Theme example for Icinga Web 2
+Build-and-Run Theme for Icinga Web 2
 ======================================
 
 This is an example to give you an idea how to start modifying the theme
