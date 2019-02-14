@@ -47,13 +47,8 @@ Feel free to add your ideas and examples here as well. Just add or modify a them
 
 Unless otherwise noted the license of these examples is Public Domain.
 
-Icinga Web related examples were created by: [Markus Frosch](mailto:markus.frosch@icinga.com)
+* Icinga Web related examples were created by: [Markus Frosch](mailto:markus.frosch@icinga.com)
 
-The ACME Logo was taken from [acmelogos.com](http://acmelogos.com) by
-[Mackenzie Child](https://www.youtube.com/watch?v=QxeXfUmBvPU&feature=youtu.be).
-No specific license was documented there, but the purpose seems to be
-intended for free-use.
-
-Other images:
-
-* `samson-duborg-rankin-91091` [Samson Duborg-Rankin on Unsplash](https://unsplash.com/photos/ZGjbiukp_-A)
+* Login image is from [Lorenzo Cafaro](https://www.pexels.com/photo/black-and-white-business-chart-computer-241544/) with the following Pexels License:
+  * Free for personal and commercial use
+  * No attribution required

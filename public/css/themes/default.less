@@ -85,11 +85,16 @@
 
 
 #login {
-  //background-image: url('../img/build-and-run/bar_color_logo_with_background.png');
-  background-image: url('');
+  background-image: url('../img/build-and-run/bar_login_background_2.jpeg');
+  background-size: cover;
 
   input[type=submit] {
     background-color: @icinga-blue;
+  }
+
+  .login-form {
+    background-color: @build-and-run-green;
+    opacity: 1;
   }
 }
 
@@ -102,7 +107,7 @@
 
   &.invert {
     // The logo shown on white background (DEFAULT)
-    background-image: url('../img/build-and-run/bar_color_logo_transparent.svg');
+    background-image: url('../img/build-and-run/bar_dark_logo_transparent.svg');
   }
 }
 
@@ -125,4 +130,8 @@
 
 #layout:not(.minimal-layout).sidebar-collapsed #header-logo {
   background-image: url('../img/build-and-run/bar_white_logo_transparent.svg');
+}
+
+.icinga-module.module-monitoring .overview-plugin-output {
+  color: @build-and-run-gray
 }
